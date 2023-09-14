@@ -14,3 +14,8 @@ Saved
 *.xcworkspace
 #Starter Content
 Content/StarterContent/*
+
+#ThirdPerson
+Content/Characters/*
+Content/LevelPrototyping/*
+Content/ThirdPerson*
