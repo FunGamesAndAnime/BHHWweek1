@@ -24,4 +24,8 @@ Content/ThirdPerson*
 
 Content/__ExternalActors__/*
 
-contect/__ExternalObjects__/*
+content/__ExternalObjects__/*
+
+content/FirstPerson/*
+
+content/FirstPersonArms/*
